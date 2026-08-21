@@ -1,5 +1,23 @@
 <div align="center">
 
+# Oussamah Kabalan · Ozma
+
+### AI-Augmented Software Engineer
+
+**Full-stack · RAG · Agents · Developer Tooling · Open to Work**
+
+I build production software and ship AI into real systems — not demos, not tutorials.
+
+TypeScript-first MERN · Python · RAG pipelines · Multi-step Agents · LLM Evaluation · Developer Tooling
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-oussamah--kabalan.netlify.app-111827?style=for-the-badge)](https://oussamah-kabalan.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oussamah-kabalan-9618923a)
+[![GitHub](https://img.shields.io/badge/GitHub-OzmaKa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OzmaKa)
+
+</div>
+
 ---
 
 ## `whoami`
@@ -12,7 +30,7 @@ I care about shipping software that actually works in production — with valida
 
 Some things I've shipped:
 
-- 🩺 **React Doctor** — React performance CLI with [![npm downloads](<https://img.shields.io/npm/dt/react-doctor-cli-dev?style=flat-square&label=npm%20downloads&color=brightgreen>)](https://www.npmjs.com/package/react-doctor-cli-dev) 
+- 🩺 **React Doctor** — React performance CLI with [![npm downloads](https://img.shields.io/npm/dt/react-doctor-cli-dev?style=flat-square&label=npm%20downloads&color=brightgreen)](https://www.npmjs.com/package/react-doctor-cli-dev) total downloads
 - 🤖 **CodeShift** — AI code converter and reviewer with SSE streaming and structured outputs
 - 🔎 **RAG systems** — Cohere embeddings, ChromaDB, LangChain, LCEL, and LangSmith
 - 🧠 **Agent systems** — multi-step tool calling with evaluation and red-team testing
@@ -62,7 +80,7 @@ It connects static findings with runtime evidence to help distinguish potential 
 ### Proof of shipping
 
 [![npm version](https://img.shields.io/npm/v/react-doctor-cli-dev?style=flat-square)](https://www.npmjs.com/package/react-doctor-cli-dev)
-[![npm downloads](<https://img.shields.io/npm/dt/react-doctor-cli-dev?style=flat-square&label=total%20downloads&color=brightgreen>)](https://www.npmjs.com/package/react-doctor-cli-dev)
+[![npm downloads](https://img.shields.io/npm/dt/react-doctor-cli-dev?style=flat-square&label=total%20downloads&color=brightgreen)](https://www.npmjs.com/package/react-doctor-cli-dev)
 
 ### Quick start
 
@@ -74,7 +92,7 @@ npx react-doctor-cli-dev full ./
 
 [🌐 Website](https://react-doctor-cli.web.app) · [📦 npm](https://www.npmjs.com/package/react-doctor-cli-dev) · [💻 GitHub](https://github.com/softar-dev/React_Doctor)
 
-* [ ] Example
+### Example
 
 ```js
 const result = await analyze('./src')
@@ -95,7 +113,6 @@ result.issues.forEach(issue => {
 ## `projects`
 
 ### 01 — CodeShift
-
 #### AI Code Converter & Reviewer
 
 A full-stack AI application that converts and reviews source code using Cohere's LLM.
@@ -115,7 +132,6 @@ Features include:
 ---
 
 ### 02 — Multi-Step Agent & Evaluation Harness
-
 #### Tool-calling agent with evaluation and security testing
 
 A persistent multi-step agent that chains tool calls across multiple iterations until a task is complete.
@@ -136,7 +152,6 @@ The security evaluation discovered and fixed **two prompt injection vulnerabilit
 ---
 
 ### 03 — RAG Pipeline · Document Q&A
-
 #### Retrieval-Augmented Generation from First Principles
 
 A from-scratch RAG pipeline built to understand the fundamentals behind modern retrieval systems.
@@ -158,7 +173,6 @@ A LangChain version extends the system with LCEL composition and LangSmith traci
 ---
 
 ### 04 — Instagram Vault
-
 #### Privacy-First Instagram Saved-Post Archive
 
 A React application that parses an official Instagram data export and creates a fully searchable and filterable archive of saved posts and reels — all data stays inside the browser, zero server-side storage.
@@ -174,7 +188,6 @@ Features: IndexedDB storage · Search & filtering · Collections · Tags · Favo
 ---
 
 ### 05 — MUGI CSS Library
-
 #### Lightweight CSS Component Library
 
 A CSS library sitting between Bootstrap's component-heavy approach and Tailwind's utility-first model — built entirely from scratch with predefined component classes, theme support, and a clean SCSS architecture.
@@ -186,7 +199,6 @@ A CSS library sitting between Bootstrap's component-heavy approach and Tailwind'
 ---
 
 ### 06 — Three.js Earth
-
 #### Interactive 3D Earth
 
 Realistic textures · Atmospheric glow · City lights · Smooth orbit controls · WebGL rendering
@@ -235,6 +247,10 @@ That means: structured outputs over free-form responses · input validation at A
 
 <div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OzmaKa&theme=transparent&hide_border=true&stroke=8b949e&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+
+</div>
+
 ---
 
 ## `numbers`
@@ -260,3 +276,11 @@ GitHub     →  https://github.com/OzmaKa
 ---
 
 <div align="center">
+
+**The goal is not to become busy — it is to become dangerous at what you do.**
+
+<br />
+
+© 2026 Oussamah Kabalan · Built with ♥ by Ozma
+
+</div>
