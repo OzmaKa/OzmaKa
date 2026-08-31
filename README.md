@@ -7,7 +7,7 @@
 **Full-stack · RAG · Agents · Developer Tooling · Open to Work**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-oussamah--kabalan.netlify.app-111827?style=for-the-badge)](https://oussamah-kabalan.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oussamah-kabalan-9618923a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oussamah-kabalan)
 [![npm](https://img.shields.io/badge/npm-react--doctor--cli-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/react-doctor-cli-dev)
 
 </div>
