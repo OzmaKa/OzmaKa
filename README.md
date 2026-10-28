@@ -4,83 +4,118 @@
 
 ### AI-Augmented Software Engineer
 
-**Full-stack · RAG · Agents · Developer Tooling · Open to Work**
+**AI Systems · Agentic RAG · LLM Evaluation · Open Source**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-oussamah--kabalan.netlify.app-111827?style=for-the-badge)](https://oussamah-kabalan.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oussamah-kabalan)
-[![npm](https://img.shields.io/badge/npm-react--doctor--cli-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/react-doctor-cli-dev)
+I design and build AI-powered systems, evaluate how they behave, and ship software people can actually use.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-172554?style=for-the-badge&logo=vercel&logoColor=white)](https://oussamah-kabalan.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussamah-kabalan/)
+[![GitHub](https://img.shields.io/badge/GitHub-OzmaKa-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OzmaKa)
+
+**Open to remote AI systems and software engineering opportunities.**
 
 </div>
 
 ---
 
-I build production software and ship AI into real systems — not demos, not tutorials.  
-TypeScript-first MERN · Python · RAG pipelines · Multi-step Agents · LLM Evaluation.
+### `01 / What I work on`
+
+- **AI systems:** retrieval-augmented generation, multi-step agents, tool calling, structured outputs, and provider-agnostic integrations.
+- **Evaluation & reliability:** LLM-as-judge, adversarial tests, prompt-injection defenses, and observable agent workflows.
+- **Open source:** developer tools and libraries grounded in practical problems, measured behavior, and maintainable implementations.
+- **Full-stack delivery:** turning prototypes into usable applications with APIs, streaming, authentication, and responsive interfaces.
+
+### `02 / Selected work`
+
+#### 🤖 [Docent — AI Documentation Assistant](https://docent-docs.web.app/)
+
+**Agentic RAG · LangGraph · Pinecone · FastAPI · React**
+
+Ask questions about public GitHub repositories or uploaded documents and get source-grounded answers with openable citations. Docent uses retrieval-aware agent orchestration, namespaced vector search, streaming responses, and a provider-agnostic design supporting Cohere, Groq, and Gemini.
+
+[**Live application ↗**](https://docent-docs.web.app/)
+
+#### 🧪 [Multi-Step Agent & Evaluation Harness](https://github.com/OzmaKa/structured-output)
+
+**Python · Tool calling · Pydantic · LLM-as-judge · Red-teaming**
+
+A tool-calling agent that can chain actions across multiple iterations, paired with condition-based evaluations, judge-model assessments, and adversarial tests. The testing process identified and helped fix **two prompt-injection vulnerabilities**.
+
+[**Explore the code ↗**](https://github.com/OzmaKa/structured-output)
+
+#### 🔎 Agentic RAG — Adaptive Document Q&A
+
+**Python · LangChain · LangGraph · ChromaDB · LangSmith**
+
+A retrieval workflow that decides *whether* to search, formulates targeted queries, evaluates retrieved context, and searches again when evidence is insufficient. LangSmith tracing makes agent steps and retrieval behavior inspectable.
+
+#### 📦 [toon-adaptive — JSON or TOON?](https://github.com/OzmaKa/toon-adaptive)
+
+**TypeScript · npm · Token measurement · LLM efficiency**
+
+An open-source library that chooses between JSON and TOON using **actual token counts**, rather than assuming one format is always smaller. Tests showed **24–36% savings** on uniform tables, but **12% more tokens** for TOON on an irregular analysis report — the kind of case where choosing JSON matters.
+
+[**Source code ↗**](https://github.com/OzmaKa/toon-adaptive) · [**npm ↗**](https://www.npmjs.com/package/toon-adaptive)
+
+#### 🩺 [React Doctor — React Performance CLI](https://github.com/softar-dev/React_Doctor)
+
+**TypeScript · Babel AST · Browser profiling · Monorepo**
+
+An open-source CLI combining static JSX/TSX analysis with runtime browser profiling to surface React performance issues and actionable suggestions. Built with a team and maintained through public releases.
+
+[![npm downloads](https://img.shields.io/npm/dt/react-doctor-cli-dev?style=flat-square&label=downloads&color=16a34a)](https://www.npmjs.com/package/react-doctor-cli-dev)
+
+[**GitHub ↗**](https://github.com/softar-dev/React_Doctor) · [**Documentation ↗**](https://react-doctor-cli.web.app/) · [**npm ↗**](https://www.npmjs.com/package/react-doctor-cli-dev)
 
 ---
 
-## `currently`
+### `03 / More things I've built`
 
-```yaml
-shipping:
-  - React Doctor       # React performance CLI · 3K+ npm downloads
-  - CodeShift          # AI code converter + reviewer · SSE + Zod structured outputs
-  - Instagram Vault    # Privacy-first archive app + Chrome extension
+| Project | Engineering focus |
+| :--- | :--- |
+| [**CodeShift**](https://github.com/OzmaKa/Code-Shift) | AI code conversion and review, SSE streaming, Zod-validated outputs, Express API safeguards |
+| [**RAG Pipeline**](https://github.com/OzmaKa/rag-project) | From-scratch document chunking, Cohere embeddings, ChromaDB semantic retrieval |
+| [**Instagram Vault**](https://instagram-vault.web.app/) | Privacy-first browser archive, IndexedDB, React, Zustand, Chrome extension |
+| **Dev Log Analyzer** | Python CLI, regex-based log parsing, structured reports |
+| **Excel-like Interpreter** | Formula parsing and evaluation built from first principles |
+| [**MUGI CSS**](https://mugi-css.web.app/) | SCSS component library, theming, reusable UI patterns |
+| [**Three.js Earth**](https://github.com/OzmaKa/Three.js-Earth) | Interactive WebGL visualization, shaders, atmospheric effects |
 
-available:
-  - Remote AI engineering · Full-stack engineering · Contract work
-```
-
----
-
-## `projects`
-
-| | project | stack |
-|---|---|---|
-| 🩺 | [**React Doctor**](https://github.com/softar-dev/React_Doctor) — CLI static analysis + runtime profiler for React · [![downloads](https://img.shields.io/npm/dt/react-doctor-cli-dev?style=flat-square&color=brightgreen&label=downloads)](https://www.npmjs.com/package/react-doctor-cli-dev) | Node · TypeScript · Babel AST |
-| 🤖 | [**CodeShift**](https://github.com/OzmaKa/Code-Shift) — AI code converter + reviewer · SSE streaming · Zod-validated output | React · Express · Cohere · Zod |
-| 🧠 | [**Multi-Step Agent**](https://github.com/OzmaKa/structured-output) — Tool-calling agent · eval harness · red-team · 2 prompt injections fixed | Python · Cohere · Pydantic |
-| 🔎 | [**RAG Pipeline**](https://github.com/OzmaKa/rag-project) — From-scratch + LangChain · ChromaDB · LangSmith tracing | Python · LangChain · Cohere |
-| 🔐 | [**Instagram Vault**](https://instagram-vault.web.app/) — Privacy-first IG archive · IndexedDB · Chrome extension · zero backend | React · Zustand · IndexedDB |
-| 🎨 | [**MUGI CSS**](https://mugi-css.web.app/) — Lightweight CSS library · component classes · SCSS theming | CSS3 · SCSS |
-| 🌍 | [**Three.js Earth**](https://github.com/OzmaKa/Three.js-Earth.git) — Interactive 3D Earth · WebGL · atmospheric glow | Three.js · GLSL |
+**[Explore all repositories ↗](https://github.com/OzmaKa?tab=repositories)**
 
 ---
 
-## `stack`
+### `04 / Engineering toolkit`
 
-```text
-Languages   TypeScript · JavaScript · Python · Java · C++ · SQL
-Frontend    React · Three.js · SCSS · PWAs
-Backend     Node.js · Express · REST · SSE · Auth · Rate Limiting
-Databases   PostgreSQL · MongoDB · ChromaDB · IndexedDB
-AI / LLM    LangChain · LCEL · Cohere · RAG · Embeddings · Agents
-            Function Calling · LLM Evaluation · LLM-as-Judge · Red-teaming
-            Zod · Pydantic · Prompt Engineering · LangSmith
-DevTools    Babel AST · CLI Design · Monorepos · Git
-```
+| Area | Technologies & practices |
+| :--- | :--- |
+| **AI systems** | LangChain, LangGraph, LCEL, RAG, agents, embeddings, vector search, Cohere, Groq, Gemini |
+| **Evaluation** | LLM-as-judge, adversarial testing, prompt-injection testing, LangSmith, Pydantic, Zod |
+| **Languages** | Python, TypeScript, JavaScript, SQL, Java, C++ |
+| **Backend & data** | FastAPI, Node.js, Express, REST, SSE, PostgreSQL, MongoDB, Pinecone, ChromaDB |
+| **Frontend** | React, Vite, SCSS, PWAs, Three.js |
+| **Engineering tools** | Git, GitHub, Babel AST, CLI development, monorepos |
 
 ---
 
+### `05 / Behind the systems`
 
+I'm a **2026 Software Engineering graduate** from the University of Homs, Syria. I enjoy understanding systems from first principles, testing assumptions with evidence, and making software that is useful beyond a demo.
 
-## `numbers`
+My work ranges from agentic retrieval and LLM evaluation to developer tooling and full-stack products. Outside software, I've contributed to community and healthcare initiatives through volunteer work.
 
-<table>
-<tr><td>📦 React Doctor downloads</td><td><a href="https://www.npmjs.com/package/react-doctor-cli-dev"><img src="https://img.shields.io/npm/dt/react-doctor-cli-dev?style=flat-square&color=brightgreen" /></a></td></tr>
-<tr><td>🚀 Projects shipped</td><td><strong>9+</strong></td></tr>
-<tr><td>💼 Status</td><td><strong>Open to remote opportunities</strong></td></tr>
-</table>
+**Availability:** remote / contract opportunities
 
 ---
 
 <div align="center">
 
-```text
-Portfolio  →  oussamah-kabalan.netlify.app
-LinkedIn   →  linkedin.com/in/oussamah-kabalan-9618923a
-```
+### `Let's build something useful`
 
-**The goal is not to become busy — it is to become dangerous at what you do.**
+Interested in AI systems, open-source collaboration, or a software engineering role?
+
+**[Portfolio](https://oussamah-kabalan.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/oussamah-kabalan/) · [GitHub](https://github.com/OzmaKa)**
+
+<sub>Ozma · Systems Under Construction</sub>
 
 </div>
